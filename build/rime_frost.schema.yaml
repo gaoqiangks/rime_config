@@ -2,9 +2,9 @@ __build_info:
   rime_version: 1.13.1
   timestamps:
     default: 1738638511
-    default.custom: 1742296753
+    default.custom: 1742297477
     rime_frost.custom: 0
-    rime_frost.schema: 1738638510
+    rime_frost.schema: 1738638511
     symbols_v: 1738638511
     symbols_v.custom: 0
 cn_en:
