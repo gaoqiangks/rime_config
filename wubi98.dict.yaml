@@ -37089,6 +37089,7 @@ encoder:
 力拔山兮气盖世	erma	100
 腊排骨	erme	100
 力拔山河	ermi	100
+遥	erm	100000
 遥	ermp	100000
 爱抢购	ermq	100
 爱看网	ermr	100
@@ -71360,7 +71361,7 @@ encoder:
 掌故	ipdt	100
 当冤大头	ipdu	100
 淡定大妈	ipdv	100
-学期	ipdw	100
+学期	ipdw	1000
 演奏	ipdw	100
 小神龙	ipdx	100
 常态	ipdy	100
@@ -128974,9 +128975,9 @@ encoder:
 多神教	qpft	100
 链家地产	qpfu	100
 金家墩	qpfy	100
-夤	qpg	100000
 金宝屯	qpgb	100
-镓	qpge	100000
+镓	qpg	100000
+夤	qpg	100
 䥾	qpgg	100000
 锭	qpgh	100000
 鑌	qpgm	100000
@@ -138177,6 +138178,7 @@ encoder:
 㧪	rqdb	100000
 鬼雄	rqdc	100
 托尔斯泰	rqdd	100
+抑郁	rqde	101
 抱有	rqde	100
 抱金砖	rqdf	100
 鬼厉	rqdg	100
@@ -167348,8 +167350,8 @@ encoder:
 决无	unfq	100
 竞买者	unft	100
 关心地问	unfu	100
+翔	ung	100001
 翊	ung	100000
-翔	ung	100000
 新发型	unga	100
 闷到	ungc	100
 翔天	ungd	100
